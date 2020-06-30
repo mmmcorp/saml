@@ -21,8 +21,8 @@ import (
 	dsig "github.com/russellhaering/goxmldsig"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/crewjam/saml"
-	"github.com/crewjam/saml/testsaml"
+	"github.com/mmmcorp/saml"
+	"github.com/mmmcorp/saml/testsaml"
 )
 
 type MiddlewareTest struct {

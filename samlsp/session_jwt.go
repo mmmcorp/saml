@@ -8,7 +8,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 
-	"github.com/crewjam/saml"
+	"github.com/mmmcorp/saml"
 )
 
 const defaultSessionMaxAge = time.Hour
