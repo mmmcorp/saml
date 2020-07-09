@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mmmcorp/saml"
-	"github.com/mmmcorp/saml/logger"
+	"github.com/unifinity/saml"
+	"github.com/unifinity/saml/logger"
 )
 
 // ErrorFunction is a callback that is invoked to return an error to the

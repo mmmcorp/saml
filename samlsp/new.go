@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/mmmcorp/saml"
-	"github.com/mmmcorp/saml/logger"
+	"github.com/unifinity/saml"
+	"github.com/unifinity/saml/logger"
 )
 
 // Options represents the parameters for creating a new middleware

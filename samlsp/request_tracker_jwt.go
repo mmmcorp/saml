@@ -7,7 +7,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 
-	"github.com/mmmcorp/saml"
+	"github.com/unifinity/saml"
 )
 
 var defaultJWTSigningMethod = jwt.SigningMethodRS256

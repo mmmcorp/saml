@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/mmmcorp/saml/samlsp"
+	"github.com/unifinity/saml/samlsp"
 )
 
 func hello(w http.ResponseWriter, r *http.Request) {
